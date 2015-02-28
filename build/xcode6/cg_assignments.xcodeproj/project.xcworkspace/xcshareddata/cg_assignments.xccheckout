@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F7EF6E88-DF27-409C-B9DF-E75D600B7AF1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cg_assignments</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1677CFC6F752C9314245A75A9DFC67BFA12CB3F1</key>
+		<string>ssh://honest.cs.hku.hk/home/postgrad/14/kwu/git/ulmonk_projects</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cg_assignment_templates/COMP3271_assignment_1_template/build/xcode6/cg_assignments.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1677CFC6F752C9314245A75A9DFC67BFA12CB3F1</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://honest.cs.hku.hk/home/postgrad/14/kwu/git/ulmonk_projects</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1677CFC6F752C9314245A75A9DFC67BFA12CB3F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1677CFC6F752C9314245A75A9DFC67BFA12CB3F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ulmonk_projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
